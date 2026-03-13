@@ -1,22 +1,34 @@
-# Hi, I'm Sunaina Singh 
-My Personal portfolio highlighting my work in data analytics and dashboards. Includes skills, projects, and certifications to demonstrate my learning journey.
+# 📊 Data Analyst Portfolio – Sunaina Singh
 
-## About Me
-I am a third-year student from Delhi, India, passionate about data analytics, cloud technologies, and generative AI. Currently exploring Python, Power BI, SQL, and Microsoft Azure to build practical skills in AI and data analysis.
+Hi! I'm Sunaina Singh, an aspiring Data Analyst based in Delhi, India.  
+I have hands-on experience with tools like **SQL, Python, Excel, and Power BI**.  
+This portfolio showcases my end-to-end data analytics projects — from **data cleaning and analysis to dashboards and business insights**.
 
-## Skills
-- **Programming & Analysis:** Python, SQL, Power BI
-- **Cloud & Tools:** Microsoft Azure, Excel
-- **Data Analytics:** Data visualization, Exploratory Data Analysis (EDA)
-- **AI & Generative AI Tools:** ChatGPT, AI-powered analytics tools
+---
 
-## Projects
-1. **AdventureWorks Analysis** – Completed AI-powered data analytics simulation for a financial services team. Used EDA and predictive modeling to generate insights.  
-2. **Customer Insights Dashboard** – Power BI dashboard visualizing product and customer trends for actionable insights.  
+## 📁 Projects Included
 
-## Certifications
-- Microsoft Azure Data Fundamentals (Free)
-- Forage: Tata, Deloitte, JP Morgan programs
+### 1. AdventureWorks Sales Analysis  
+**Tools:** SQL, Python, Power BI  
+**Skills:** Sales Analysis, Data Cleaning, KPI Dashboard, Trend Analysis  
+📎 View Project: (add your GitHub project link here)
 
-## Connect With Me
-- [Email](mailto:sunainasingh.workexample.com)
+> Analyzed the AdventureWorks dataset to identify sales trends, top-performing products, and regional revenue insights using SQL queries and Power BI dashboards.
+
+---
+
+### 2. Madhav Sales Dashboard  
+**Tools:** Power BI, Excel  
+**Skills:** Sales KPI Analysis, Interactive Dashboard, Data Visualization  
+📎 View Project: (add your GitHub project link here)
+
+> Developed an interactive sales dashboard to analyze revenue, product performance, and customer trends for the Madhav sales dataset.
+
+---
+
+## 📬 Contact
+
+🔗 LinkedIn – (add your LinkedIn link)  
+📄 [Download My Resume]
+
+📄 Resume – (add your resume link if uploaded)
