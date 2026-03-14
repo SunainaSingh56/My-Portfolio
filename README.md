@@ -20,7 +20,7 @@ This portfolio showcases my end-to-end data analytics projects — from **data c
 ### 2. Madhav Sales Dashboard  
 **Tools:** Power BI, Excel  
 **Skills:** Sales KPI Analysis, Interactive Dashboard, Data Visualization  
-📎 View Project: (add your GitHub project link here)
+📎 View Project: (https://github.com/SunainaSingh56/Madhav-Sales-Dashboard)
 
 > Developed an interactive sales dashboard to analyze revenue, product performance, and customer trends for the Madhav sales dataset.
 
