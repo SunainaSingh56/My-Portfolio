@@ -11,7 +11,7 @@ This portfolio showcases my end-to-end data analytics projects — from **data c
 ### 1. AdventureWorks Sales Analysis  
 **Tools:** SQL, Python, Power BI  
 **Skills:** Sales Analysis, Data Cleaning, KPI Dashboard, Trend Analysis  
-📎 View Project: (add your GitHub project link here)
+📎 View Project: (https://github.com/SunainaSingh56/Adventureworks-project)
 
 > Analyzed the AdventureWorks dataset to identify sales trends, top-performing products, and regional revenue insights using SQL queries and Power BI dashboards.
 
